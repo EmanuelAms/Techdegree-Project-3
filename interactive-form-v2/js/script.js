@@ -1,5 +1,5 @@
 /******************************************
-Treehouse Techdegree:
+Treehouse Techdegree: t
 FSJS project 3 - Interactive Form
 ******************************************/
 
